@@ -13,6 +13,7 @@ You can install the package via composer:
 composer require ezpubsub/ezpubsub-php
 ```
 
+
 ## EzPubSub Constructor
 Use the credentials from your [EzPubSub Application](https://ezpubsub.com) to create a new EzPubSub\EzPubSub instance.
 ``` php
