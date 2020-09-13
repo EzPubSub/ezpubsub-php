@@ -1,4 +1,4 @@
-# Very short description of the package
+# EzPubSub
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ezpubsub/ezpubsub-php.svg?style=flat-square)](https://packagist.org/packages/ezpubsub/ezpubsub-php)
 [![Total Downloads](https://img.shields.io/packagist/dt/ezpubsub/ezpubsub-php.svg?style=flat-square)](https://packagist.org/packages/ezpubsub/ezpubsub-php)
