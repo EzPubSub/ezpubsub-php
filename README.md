@@ -15,6 +15,7 @@ composer require ezpubsub/ezpubsub-php
 
 ## EzPubSub Constructor
 Use the credentials from your [EzPubSub Application](https://ezpubsub.com) to create a new EzPubSub\EzPubSub instance.
+
 ``` php
 $app_id = 'YOUR_APP_ID';
 $app_key = 'YOUR_APP_KEY';
